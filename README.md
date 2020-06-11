@@ -4,6 +4,10 @@ From Udemy.... but updated by me
 
 Feel free to do whatever you want with it.
 
+To make it work you will have to register to get a key to use the API.
+         http://www.coinapi.io/
+         
+
 Most Crypto icons: Designed by Freepik.
 
 Images by Udemy.
