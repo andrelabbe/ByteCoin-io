@@ -18,7 +18,7 @@ After this I did play (as practice)  a bit with it to make it more interresting.
 
 I might carry on...
 
-How I did create the 'pdf' since I di not want to use the 'online' solution.
+How I did create the 'pdf' since I did not want to use an 'online' solution.
 
 I use Inkscape on my mac. 
 One file with all my 'icons' saved as 'svg' 
